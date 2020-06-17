@@ -10,9 +10,9 @@
   * 另外，考虑到一些朋友前来咨询书中的代码段是否有提供下载，提到做实验的时候不方便（我猜可能想偷个小小的懒吧），所以我们决定将书中的加粗代码段和一些关键的配置代码段源码开源出来。还有，书中一些看起来不那么清晰的大图，我们也一并开源出来了。
 * 下面"蓝色"超链接，分别为代码段目录以及4个附录目录的入口，大家可以根据需要自行点击相应的超链接进入各自的目录，这里不再赘述。
 
-### [书中代码段以及高清大图](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE)
+### [1. 书中代码段以及高清大图](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE)
 
-### 附录完整版
+### 2. 附录完整版
 
 #### [附录A 线程状态信息详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95A-%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E4%BF%A1%E6%81%AF%E8%AF%A6%E8%A7%A3)
  * 已上传完成
@@ -28,7 +28,7 @@
 
 ------
 
-开始 | 下一篇：[附录A 线程状态信息详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95A-%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E4%BF%A1%E6%81%AF%E8%AF%A6%E8%A7%A3)
+开始 | 下一篇：[书中代码段以及高清大图](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE)
 
 ------
 
