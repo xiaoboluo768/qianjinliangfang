@@ -10,7 +10,8 @@
   * 另外，考虑到一些朋友前来咨询书中的代码段是否有提供下载，提到做实验的时候不方便（我猜可能想偷个小小的懒吧），所以我们决定将书中的加粗代码段和一些关键的配置代码段源码开源出来。还有，书中一些看起来不那么清晰的大图，我们也一并开源出来了。
 * 下面"蓝色"超链接，分别为代码段目录以及4个附录目录的入口，大家可以根据需要自行点击相应的超链接进入各自的目录，这里不再赘述。
 
-### [1. 书中代码段以及高清大图](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE)
+### [1. 书中代码段以及高清大图目录](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E7%9B%AE%E5%BD%95)
+  * 已上传完成
 
 ### 2. 附录完整版
 
@@ -28,15 +29,18 @@
 
 ------
 
-开始 | 下一篇：[书中代码段以及高清大图](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE)
+开始 | 下一篇：[书中代码段以及高清大图目录](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E7%9B%AE%E5%BD%95)
 
 ------
 
-* 本 WIKI 包含了《千金良方--MySQL 性能优化金字塔法则》一书的4个附录内容，每个附录都各自整理成了一个小系列文档，如下：
-  * 附录 A 线程状态信息详解
-  * 附录 B show engine innodb status 详解
-  * 附录 C MySQL 常用配置变量和状态变量详解
-  * 附录 D explain 执行计划详解
+* 本 WIKI 包含了《千金良方--MySQL 性能优化金字塔法则》一书的代码段加粗命令行命令和SQL语句文本、以及4个附录内容，其中：
+  * 代码段和高清图单独整理为一个系列文档，如下：
+    * [书中代码段以及高清大图目录](https://github.com/xiaoboluo768/qianjinliangfang/wiki/%E4%B9%A6%E4%B8%AD%E4%BB%A3%E7%A0%81%E6%AE%B5%E4%BB%A5%E5%8F%8A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%E7%9B%AE%E5%BD%95)
+  * 每个附录都各自整理成了一个小系列文档，如下：
+    * [附录 A 线程状态信息详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95A-%E7%BA%BF%E7%A8%8B%E7%8A%B6%E6%80%81%E4%BF%A1%E6%81%AF%E8%AF%A6%E8%A7%A3)
+    * [附录 B show engine innodb status 详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95B-show-engine-innodb-status%E8%AF%A6%E8%A7%A3)
+    * [附录 C MySQL 常用配置变量和状态变量详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95C-MySQL%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE%E5%8F%98%E9%87%8F%E5%92%8C%E7%8A%B6%E6%80%81%E5%8F%98%E9%87%8F%E8%AF%A6%E8%A7%A3)
+    * [附录 D explain 执行计划详解](https://github.com/xiaoboluo768/qianjinliangfang-The-appendix/wiki/%E9%99%84%E5%BD%95D-explain-%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%E8%AF%A6%E8%A7%A3)
 
 * 《千金良方--MySQL 性能优化金字塔法则》 一书的作者信息如下：
   * 李春、罗小波、董红禹
